@@ -4,4 +4,5 @@ plans
 projects
 test codes
 goals
+trials
 etc.
